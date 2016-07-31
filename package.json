@@ -1,0 +1,12 @@
+{
+  "name": "logging-app",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "fibers": "^1.0.13",
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
